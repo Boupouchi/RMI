@@ -10,3 +10,10 @@ The RMI client offers a user-friendly interface for users to perform tasks like 
 * mysql
 * RMI
 # Tests 
+![IMG_20231023_231946](https://github.com/Boupouchi/RMI/assets/81436882/d9d78234-c8fa-40c2-b5c0-8f85ad0714cf)
+
+![IMG_20231023_232209](https://github.com/Boupouchi/RMI/assets/81436882/5d2ad957-5936-4d0b-ba02-e2b9ec814c39)
+
+![IMG_20231023_232002](https://github.com/Boupouchi/RMI/assets/81436882/c052ac72-e829-444a-b9f1-4486b93c44ec)
+
+![IMG_20231023_231846](https://github.com/Boupouchi/RMI/assets/81436882/f019e25e-8edd-4e54-97d1-140574ed5965)
