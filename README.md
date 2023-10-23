@@ -10,10 +10,17 @@ The RMI client offers a user-friendly interface for users to perform tasks like 
 * mysql
 * RMI
 # Tests 
-![IMG_20231023_231946](https://github.com/Boupouchi/RMI/assets/81436882/d9d78234-c8fa-40c2-b5c0-8f85ad0714cf)
+![IMG_20231024_001242](https://github.com/Boupouchi/RMI/assets/81436882/c493af8c-809a-40e3-934a-42cf81712a19)
 
-![IMG_20231023_232209](https://github.com/Boupouchi/RMI/assets/81436882/5d2ad957-5936-4d0b-ba02-e2b9ec814c39)
+![IMG_20231024_001320](https://github.com/Boupouchi/RMI/assets/81436882/cecfe4fa-fc12-4367-a2b9-c9e59db90dfd)
 
-![IMG_20231023_232002](https://github.com/Boupouchi/RMI/assets/81436882/c052ac72-e829-444a-b9f1-4486b93c44ec)
+![IMG_20231024_001435](https://github.com/Boupouchi/RMI/assets/81436882/b51b021c-534a-41ac-ba3a-b5901954fb2f)
 
-![IMG_20231023_231846](https://github.com/Boupouchi/RMI/assets/81436882/f019e25e-8edd-4e54-97d1-140574ed5965)
+![IMG_20231024_001303](https://github.com/Boupouchi/RMI/assets/81436882/c0d09522-a3d6-4856-a156-d9bf8d9b7c47)
+
+![IMG_20231024_001355](https://github.com/Boupouchi/RMI/assets/81436882/cadddc1f-0c5a-4a90-896c-cc66d661e409)
+
+![IMG_20231024_001415](https://github.com/Boupouchi/RMI/assets/81436882/932c38f9-f93b-4b75-a429-b8c943bc13be)
+
+![IMG_20231024_001342](https://github.com/Boupouchi/RMI/assets/81436882/0ffe17f3-d856-4c9e-abd4-29a2877fdaea)
+
